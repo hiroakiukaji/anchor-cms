@@ -13,9 +13,6 @@ Thumbs.db
 /anchor/config/db.php
 /anchor/config/session.php
 
-# user mod_rewrite
-/.htaccess
-
 # debug and custom themes
 /themes/*
 !/themes/default

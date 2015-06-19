@@ -1,0 +1,4 @@
+---
+applications:
+- name: anchorcms
+  buildpack: https://github.com/cloudfoundry/php-buildpack
